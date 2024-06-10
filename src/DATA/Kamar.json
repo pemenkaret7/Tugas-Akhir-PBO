@@ -1,0 +1,92 @@
+[
+  {
+    "kodeKamar": 1,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 20000,
+    "status": true
+  },
+  {
+    "kodeKamar": 2,
+    "jeniskamar": "VIP",
+    "hargapermalam": 20000,
+    "status": false
+  },
+  {
+    "kodeKamar": 3,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 10000,
+    "status": true
+  },
+  {
+    "kodeKamar": 4,
+    "jeniskamar": "VIP",
+    "hargapermalam": 60000,
+    "status": true
+  },
+  {
+    "kodeKamar": 5,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 6000,
+    "status": true
+  },
+  {
+    "kodeKamar": 6,
+    "jeniskamar": "VIP",
+    "hargapermalam": 5000,
+    "status": true
+  },
+  {
+    "kodeKamar": 7,
+    "jeniskamar": "VIP",
+    "hargapermalam": 90000,
+    "status": true
+  },
+  {
+    "kodeKamar": 8,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 5000,
+    "status": true
+  },
+  {
+    "kodeKamar": 9,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 7000,
+    "status": true
+  },
+  {
+    "kodeKamar": 10,
+    "jeniskamar": "VIP",
+    "hargapermalam": 8000,
+    "status": true
+  },
+  {
+    "kodeKamar": 11,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 2000,
+    "status": true
+  },
+  {
+    "kodeKamar": 12,
+    "jeniskamar": "VIP",
+    "hargapermalam": 9000,
+    "status": true
+  },
+  {
+    "kodeKamar": 13,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 2900,
+    "status": true
+  },
+  {
+    "kodeKamar": 14,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 1200,
+    "status": true
+  },
+  {
+    "kodeKamar": 15,
+    "jeniskamar": "REGULER",
+    "hargapermalam": 1000,
+    "status": true
+  }
+]

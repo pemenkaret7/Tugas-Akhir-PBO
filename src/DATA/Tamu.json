@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 1,
+    "telp": "rtyui",
+    "negara": "wertyg",
+    "kamar": {
+      "kodeKamar": 7,
+      "jeniskamar": "VIP",
+      "hargapermalam": 90000,
+      "status": false
+    },
+    "name": "iksan",
+    "nik": "789"
+  },
+  {
+    "ID": 2,
+    "telp": "23456",
+    "negara": "sdf",
+    "kamar": {
+      "kodeKamar": 15,
+      "jeniskamar": "REGULER",
+      "hargapermalam": 1000,
+      "status": false
+    },
+    "name": "pandu",
+    "nik": "456789"
+  }
+]
